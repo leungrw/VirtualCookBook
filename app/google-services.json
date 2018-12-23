@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491536042962",
+    "firebase_url": "https://virtualcookbook-6c0bb.firebaseio.com",
+    "project_id": "virtualcookbook-6c0bb",
+    "storage_bucket": "virtualcookbook-6c0bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491536042962:android:008f22635d6ea580",
+        "android_client_info": {
+          "package_name": "com.example.leungrw.virtualcookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491536042962-2qtp2rmffiemqm2i6pkg3vsc4v0b8c5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leungrw.virtualcookbook",
+            "certificate_hash": "49184f51fb40b39675fca049244832e8d9c00b4c"
+          }
+        },
+        {
+          "client_id": "491536042962-5oau78a0una7m52h5f1rgp0h39tia0h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB94jBxZ5G7KG7zFXu7Jor7d5x482xYklM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491536042962-5oau78a0una7m52h5f1rgp0h39tia0h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
